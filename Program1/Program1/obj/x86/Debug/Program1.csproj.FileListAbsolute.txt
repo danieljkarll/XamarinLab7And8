@@ -1,0 +1,6 @@
+/Users/bitstudent/Projects/Program1/Program1/bin/Debug/Program1.exe
+/Users/bitstudent/Projects/Program1/Program1/bin/Debug/Program1.pdb
+/Users/bitstudent/Projects/Program1/Program1/obj/x86/Debug/Program1.csprojAssemblyReference.cache
+/Users/bitstudent/Projects/Program1/Program1/obj/x86/Debug/Program1.csproj.CoreCompileInputs.cache
+/Users/bitstudent/Projects/Program1/Program1/obj/x86/Debug/Program1.exe
+/Users/bitstudent/Projects/Program1/Program1/obj/x86/Debug/Program1.pdb
