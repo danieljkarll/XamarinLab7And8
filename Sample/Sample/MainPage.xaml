@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Sample.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <!-- 
+        <Label Text="See the test image" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+       <Image Source="testpng.png"></Image>
+                        <Image Source="testy.png"></Image>
+        -->
+ <Entry
+     x:Name="yourName"
+     Text="Name"
+  />
+         <Entry
+     x:Name="yourAge"
+     Text="Age"
+  />
+         <Button Text="Start" Clicked="start_clicked" x:Name="start_btn"/>
+
+        <Image x:Name="the_image" Source="testpng.png" IsVisible="false">
+        </Image>
+        <!--
+        <Button Text="Next" Clicked="next_clicked"/>
+        <Button Text="Previous" Clicked="previous_clicked"/>
+        -->
+
+           <Label Text="test123"
+               x:Name="question_label"
+                  IsVisible="false"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               BackgroundColor="#ADD8E6">
+              <Label.GestureRecognizers>
+                <SwipeGestureRecognizer Direction="Left" Swiped="OnSwiped"/>
+                <SwipeGestureRecognizer Direction="Right" Swiped="OnSwiped"/>
+              </Label.GestureRecognizers>
+            </Label>
+        <Label Text="Swipe left for false swipe right for true!"
+               x:Name="lastResult"
+               IsVisible="false"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+
+</ContentPage>

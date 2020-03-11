@@ -1,0 +1,12 @@
+/Users/bitstudent/Projects/Sample/Sample/bin/Debug/netstandard2.0/Sample.deps.json
+/Users/bitstudent/Projects/Sample/Sample/bin/Debug/netstandard2.0/Sample.dll
+/Users/bitstudent/Projects/Sample/Sample/bin/Debug/netstandard2.0/Sample.pdb
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.csprojAssemblyReference.cache
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.csproj.CoreCompileInputs.cache
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.AssemblyInfoInputs.cache
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.AssemblyInfo.cs
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.dll
+/Users/bitstudent/Projects/Sample/Sample/obj/Debug/netstandard2.0/Sample.pdb
